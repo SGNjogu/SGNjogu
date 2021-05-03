@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 - 🔭 I’m Samuel Njogu
-- 🏢 I work at a small company called FITTS Ltd as a Software Developer
-- 🌱 I build cool stuff mostly using .NET
+- 🏢 I work at FITTS Ltd as a Software Developer
+- 🌱 I build cool stuff mostly using .NET, Xamarin.Forms
 - 🦜 I’m on Twitter https://twitter.com/gachiguasamuel
 - 👯 I’m always down to try out exciting stuff in cool projects
-- 📫 How to reach me: You can send me a quick message on twitter, or send me an email
+- 📫 How to reach me: You can send me a quick message on twitter, or send me an email!
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: My favourite go-to comfort-binge TV show is Friends
 
