@@ -9,4 +9,4 @@
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: My favourite go-to comfort-binge TV shows are Friends, Big Bang Theory
 
-![Samuel's github stats](https://github-readme-stats.vercel.app/api?username=SGNjogu&show_icons=true)
+![Samuel's github stats](https://github-readme-stats.vercel.app/api?username=SGNjogu&show_icons=false)
