@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m Samuel Njogu
-- 🏢 I'm a Software Developer at FITTS Ltd
-- 🌱 I build cool stuff using .NET, Xamarin.Forms, Python and JavaScript
+- 🔭 My name is Samuel Njogu
+- 🏢 I work as a Software Developer at FITTS Ltd
+- 🌱 I build cool stuff using C#, JavaScript and Python languages
 - 🦜 I’m on Twitter https://twitter.com/gachiguasamuel
 - 👯 I’m always down to trying out exciting stuff, cool projects
 - 📫 How to reach me: Send me a quick message on twitter, or send me an email!
